@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS `lab2_blog` COLLATE 'utf8_general_ci';
